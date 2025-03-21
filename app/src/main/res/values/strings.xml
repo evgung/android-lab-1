@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Laba1</string>
+    <string name="name">Евгений Гаврилов</string>
+    <string name="subtitle">Android Developer</string>
+    <string name="phone_number">+7 (967) 918-00-77</string>
+    <string name="telegram">\@EvgunGG</string>
+    <string name="email">zhenya-gavrilov-2004@mail.ru</string>
+</resources>
